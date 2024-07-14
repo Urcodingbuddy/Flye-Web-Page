@@ -104,6 +104,7 @@ html {
     border-radius: 8px;
     width: 70%;
     height: 60%;
+    max-width:450px;
 }
 
 #popupForm h2 {
